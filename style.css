@@ -1,5 +1,5 @@
-bobody {
-  background: linear-gradient(135deg, #a8edea, #41d6c3); /* سماوي فاتح مائل للأخضر */
+body {
+  background: linear-gradient(135deg, #a8edea, #41d6c3); /* سماوي فاتح */
   font-family: sans-serif;
   color: white;
   display: flex;
@@ -19,7 +19,7 @@ bobody {
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
 }
 
-/* صورة عبدالعزيز */
+/* الصورة */
 .profile-img {
   width: 150px;
   height: 150px;
